@@ -14,6 +14,14 @@ My goal today is to learn JavaScript / Front-end. I’m sure the course from The
 * JS basic knowledge
 * Photoshop
 
+### Code example
+```javascript
+function solution(str){
+   return str.split('').reverse().join('')
+}
+solution(abcd)
+```
+
 ### Education 
 **2005-2010** - Belarusian National Technical University, Faculty of Civil Engineering, *specialization – Economics*.
 
