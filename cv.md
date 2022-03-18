@@ -4,11 +4,11 @@
 
 > Minsk
 
-> +375 29 506 08 28
+> tel: +375 29 506 08 28
 
-> ego.iriska@gmail.com
+> email: ego.iriska@gmail.com
 
-> <https://t.me/t_peleka>
+> telegram: <https://t.me/t_peleka>
 
 ----
 ## About me
