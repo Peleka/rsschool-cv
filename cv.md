@@ -1,8 +1,7 @@
 # Elena Peletskaya
-----
-## Contacts
 
-> Minsk
+
+## Contacts
 
 > tel: +375 29 506 08 28
 
